@@ -1,0 +1,51 @@
+Schematic: Gnomish Mind Control Cap
+
+Schematic: Gnomish Rocket Boots
+
+Schematic: Parachute Cloak
+
+Schematic: Thorium Shells
+
+Schematic: Salt Shaker
+
+Schematic: Sniper Scope
+
+Schematic: Accurate Scope
+
+Schematic: Gnomish Net-o-matic Projector
+
+Schematic: Gnomish Cloaking Device
+
+Schematic: Goblin Jumper Cables
+
+Schematic: Powerful Seaforium Charge
+
+Schematic: Hi-Explosive Bomb
+
+Schematic: Large Seaforium Charge
+
+Schematic: Unstable Trigger
+
+Schematic: Gyrochronatom
+
+Recipe: Flask of Distilled Wisdom
+
+Recipe: Greater Frost protection potion
+
+Recipe: Greater Fire protection potion
+
+Recipe: Greater Arcane Elixir
+
+Recipe: Elixir of the Mongoose
+
+Recipe: Greater Stoneshield Potion
+
+Recipe: Elixir of Shadow Power
+
+Recipe: Limited Invulnerability Potion
+
+Recipe: Elixir of Greater Intellect
+
+Recipe: Restorative Potion
+
+Recipe: Frost Oil
